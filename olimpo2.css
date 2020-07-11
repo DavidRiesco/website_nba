@@ -1,0 +1,232 @@
+body{
+	background-color:#E6E6FA;
+}
+h1{
+	text-align:center;
+	text-decoration:underline;
+	margin-top: 40px;
+}
+
+.letra{
+	width:95%;
+	height:295px;
+	margin:auto;
+}
+#jugador6{	
+	width:90%;
+	height:300px;
+	margin:auto;
+	margin-top:30px;
+	margin-bottom:30px;
+	
+}
+#puesto6{
+	width:20%;
+	height:300px;
+	background-color:#CDCC32;
+	float:left;
+	text-align:center;
+	font-size:25px;
+}
+div#puesto6 img{
+	width:100%;
+	height:70%;
+}
+#foto6{
+	width:20%;
+	height:300px;
+	border:1px solid black;
+	background-color:red;
+	float:left;
+}
+div#foto6 img{
+	width:100%;
+	height:100%;
+}
+div#foto6 img:hover{
+	-moz-transform: scale(1.5);
+}
+#texto6{
+	width:56%;
+	height:300px;
+	border:1px solid black;
+	float:right;
+	background-color: #BDB76B;
+}
+#jugador7{
+	width:90%;
+	height:300px;
+	margin:auto;
+	margin-bottom:30px;
+}
+#puesto7{
+	width:20%;
+	height:300px;
+	background-color:#CDCC32;
+	float:left;
+	text-align:center;
+	font-size:25px;
+}
+div#puesto7 img{
+	width:100%;
+	height:70%;
+}
+#foto7{
+	width:20%;
+	height:300px;
+	border:1px solid black;
+	background-color:red;
+	float:left;
+}
+div#foto7 img{
+	width:100%;
+	height:100%;
+}
+div#foto7 img:hover{
+	-moz-transform: scale(1.5);
+}
+#texto7{
+	width:56%;
+	height:300px;
+	border:1px solid black;
+	float:right;
+	background-color: #BDB76B;
+}
+#jugador8{
+	width:90%;
+	height:300px;
+	margin:auto;
+	margin-bottom:30px;
+}
+#puesto8{
+	width:20%;
+	height:300px;
+	background-color:#CDCC32;
+	float:left;
+	text-align:center;
+	font-size:25px;
+}
+div#puesto8 img{
+	width:100%;
+	height:70%;
+}
+#foto8{
+	width:20%;
+	height:300px;
+	border:1px solid black;
+	background-color:red;
+	float:left;
+}
+div#foto8 img{
+	width:100%;
+	height:100%;
+}
+div#foto8 img:hover{
+	-moz-transform: scale(1.5);
+}
+#texto8{
+	width:56%;
+	height:300px;
+	border:1px solid black;
+	float:right;
+	background-color: #BDB76B;
+}
+#jugador9{
+	width:90%;
+	height:300px;
+	margin:auto;
+	margin-bottom:30px;
+}
+#puesto9{
+	width:20%;
+	height:300px;
+	background-color:#CDCC32;
+	float:left;
+	text-align:center;
+	font-size:25px;
+}
+div#puesto9 img{
+	width:100%;
+	height:70%;
+}
+#foto9{
+	width:20%;
+	height:300px;
+	border:1px solid black;
+	background-color:red;
+	float:left;
+}
+div#foto9 img{
+	width:100%;
+	height:100%;
+}
+div#foto9 img:hover{
+	-moz-transform: scale(1.5);
+}
+#texto9{
+	width:56%;
+	height:300px;
+	border:1px solid black;
+	float:right;
+	background-color: #BDB76B;
+}
+#jugador10{
+	width:90%;
+	height:300px;
+	margin:auto;
+	margin-bottom:30px;
+}
+#puesto10{
+	width:20%;
+	height:300px;
+	background-color:#CDCC32;
+	float:left;
+	text-align:center;
+	font-size:25px;
+}
+div#puesto10 img{
+	width:100%;
+	height:70%;
+}
+#foto10{
+	width:20%;
+	height:300px;
+	border:1px solid black;
+	background-color:red;
+	float:left;
+}
+div#foto10 img{
+	width:100%;
+	height:100%;
+}
+div#foto10 img:hover{
+	-moz-transform: scale(1.5);
+}
+#texto10{
+	width:56%;
+	height:300px;
+	border:1px solid black;
+	float:right;
+	background-color: #BDB76B;
+}
+#enlace1{
+	width:4%;
+	height:36px;
+	margin:auto;
+}
+#enlace2{
+	width:16%;
+	height:36px;
+	margin:auto;
+}
+a{
+	text-decoration:none;
+	font-weight: bold;
+	font-size:2em;
+}
+a:link{
+	color:#7d2181;
+}
+a:visited{
+	color:#7d2181;
+}

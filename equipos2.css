@@ -1,0 +1,268 @@
+body{
+	background-color:#E6E6FA;
+}
+h1{
+	text-align:center;
+	text-decoration:underline;
+	margin-top: 40px;
+}
+
+.texto{
+	width: 46%;
+	height: 200px;
+	float: right;
+	margin-top: 10px;
+	margin-right: 20px;
+	background-color:#CDCC32;
+}
+.letra{
+	width:95%;
+	height:295px;
+	margin:auto;
+}
+#clippers{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#clippers img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#clippers img:hover{
+-moz-transform: scale(1.5);
+}
+#kings{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#kings img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#kings img:hover{
+-moz-transform: scale(1.5);
+}
+#timberwolves{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#timberwolves img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#timberwolves img:hover{
+-moz-transform: scale(1.5);
+}
+#jazz{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#jazz img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#jazz img:hover{
+-moz-transform: scale(1.5);
+}
+#blazzers{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#blazzers img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#blazzers img:hover{
+-moz-transform: scale(1.5);
+}
+#suns{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#suns img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#suns img:hover{
+-moz-transform: scale(1.5);
+}
+#pelicans{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#pelicans img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#pelicans img:hover{
+-moz-transform: scale(1.5);
+}
+#wizards{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#wizards img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#wizards img:hover{
+-moz-transform: scale(1.5);
+}
+#nets{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#nets img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#nets img:hover{
+-moz-transform: scale(1.5);
+}
+#pistons{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#pistons img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#pistons img:hover{
+-moz-transform: scale(1.5);
+}
+#hornetts{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#hornetts img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#hornetts img:hover{
+-moz-transform: scale(1.5);
+}
+#hawks{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#hawks img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#hawks img:hover{
+-moz-transform: scale(1.5);
+}
+#pacers{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#pacers img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#pacers img:hover{
+-moz-transform: scale(1.5);
+}
+#griezzlies{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#griezzlies img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#griezzlies img:hover{
+-moz-transform: scale(1.5);
+}
+#magic{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#magic img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#magic img:hover{
+-moz-transform: scale(1.5);
+}
+#enlace1{
+	width:24%;
+	height:36px;
+	margin:auto;
+}
+#enlace2{
+	width:16%;
+	height:36px;
+	margin:auto;
+}
+a{
+	text-decoration:none;
+	font-weight: bold;
+	font-size:2em;
+}
+a:link{
+	color:#7d2181;
+}
+a:visited{
+	color:#7d2181;
+}

@@ -1,0 +1,283 @@
+body{
+	background-color:#E6E6FA;
+}
+h1{
+	text-align:center;
+	text-decoration:underline;
+    margin-top: 40px;
+}
+
+.texto{
+	width: 46%;
+	height: 200px;
+	float: right;
+	margin-top: 10px;
+	margin-right: 20px;
+	background-color:#CDCC32;
+}
+.letra{
+	width:95%;
+	height:295px;
+	margin:auto;
+}
+#lakers{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#lakers img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#lakers img:hover{
+-moz-transform: scale(1.5);
+}
+#warriors{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#warriors img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#warriors img:hover{
+-moz-transform: scale(1.5);
+}
+#celtics{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#celtics img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#celtics img:hover{
+-moz-transform: scale(1.5);
+}
+#raptors{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#raptors img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#raptors img:hover{
+-moz-transform: scale(1.5);
+}
+#rockets{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#rockets img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#rockets img:hover{
+-moz-transform: scale(1.5);
+}
+#thunder{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#thunder img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#thunder img:hover{
+-moz-transform: scale(1.5);
+}
+#spurs{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#spurs img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#spurs img:hover{
+-moz-transform: scale(1.5);
+}
+#cavaliers{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#cavaliers img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#cavaliers img:hover{
+-moz-transform: scale(1.5);
+}
+#sixers{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#sixers img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#sixers img:hover{
+-moz-transform: scale(1.5);
+}
+#spurs{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#spurs img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#spurs img:hover{
+-moz-transform: scale(1.5);
+}
+#knicks{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#knicks img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#knicks img:hover{
+-moz-transform: scale(1.5);
+}
+#bulls{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#bulls img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#bulls img:hover{
+-moz-transform: scale(1.5);
+}
+#bucks{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#bucks img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#bucks img:hover{
+-moz-transform: scale(1.5);
+}
+#mavericks{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#mavericks img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#mavericks img:hover{
+-moz-transform: scale(1.5);
+}
+#nuggets{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#nuggets img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#nuggets img:hover{
+-moz-transform: scale(1.5);
+}
+#heat{
+	width:90%;
+	height:220px;
+	margin:auto;
+	border:3px solid black;
+	background-color:white;
+}
+#heat img{
+	float:left;
+	height:200px;
+	margin:5px;
+}
+#heat img:hover{
+-moz-transform: scale(1.5);
+}
+#enlace1{
+	width:24%;
+	height:36px;
+	margin:auto;
+}
+#enlace2{
+	width:16%;
+	height:36px;
+	margin:auto;
+}
+a{
+	text-decoration:none;
+	font-weight: bold;
+	font-size:2em;
+}
+a:link{
+	color:#7d2181;
+}
+a:visited{
+	color:#7d2181;
+}

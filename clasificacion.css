@@ -1,0 +1,105 @@
+body{
+	background-color:#CDCC32;
+	height:1020px;
+}
+
+h1{
+	text-align:center;
+	text-decoration:underline;
+	margin-top: 40px;
+}
+
+p{
+	font-size: large;
+	font-weight: bold;
+	
+}
+img{
+	float:left;
+	height:100%;
+	margin-left:20px;
+}
+#conferencia1{
+	width:40%;
+	height: 50px;
+	float:left;
+	margin-left:5%;
+	text-align: center;
+	
+}
+#conferencia1 p{
+	font-size:x-large;
+}
+#conferencia2{
+	width:40%;
+	height: 50px;
+	float:right;
+	margin-right:5%;
+	text-align: center;
+}
+#conferencia2 p{
+	font-size:x-large;
+}
+#este{
+	width:40%;
+	height:810px;
+	border:1px solid black;
+	float:left;
+	margin-left:5%;
+}
+#oeste{
+	width:40%;
+	height:810px;
+	border:1px solid black;
+	float:right;
+	margin-right:5%;
+}
+.posicion1{
+	width: 20%;
+	height: 810px;
+	border: 1px solid black;
+	background-color:#BDB76B;
+	float:left;
+}
+.numero{
+    width: 100%;
+    height: 38px;
+    border: 1px solid black;
+	text-align: center;
+	padding-top:7px;
+	padding-bottom:7px;
+}
+	
+
+.equipo{
+	width:79.2%;
+	height: 810px;
+	border: 1px solid black;
+	float:left;
+	background-color:#E6E6FA;
+}
+.team{
+	width: 100%;
+    height: 38px;
+    border: 1px solid black;
+    text-align: center;
+	padding-top:7px;
+	padding-bottom:7px;
+}
+#enlace2{
+	width:100%;
+	height:50px;
+	text-align:center;
+	margin-top:945px;
+}
+a{
+	text-decoration:none;
+	font-weight: bold;
+	font-size:2em;
+}
+a:link{
+	color:#7d2181;
+}
+a:visited{
+	color:#7d2181;
+}
